@@ -1,0 +1,20 @@
+[
+  {
+    "planet": "Mars",
+    "type": "Terrestrial",
+    "moons": 2,
+    "distance_from_sun": "227.9 million km"
+  },
+  {
+    "celestial_body": "Europa",
+    "type": "Moon",
+    "parent_planet": "Jupiter",
+    "surface_features": ["Ice crust", "Subsurface ocean"]
+  },
+  {
+    "spacecraft": "Voyager 1",
+    "launch_date": "September 5, 1977",
+    "current_distance": "22.5 billion km",
+    "mission_status": "Interstellar"
+  }
+]
